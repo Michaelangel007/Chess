@@ -15,7 +15,7 @@ struct SearchMove_t
 
 /* To search we need:
       initial board layout
-      list of possible moves to search and evaluate thier strength
+      list of possible moves to search and evaluate their strength
 */
 struct SearchState_t
 {
